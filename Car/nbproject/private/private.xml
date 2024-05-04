@@ -6,7 +6,9 @@
             <file>file:/F:/Car/src/car/c_payment.java</file>
             <file>file:/F:/Car/src/car/c_feedback.java</file>
             <file>file:/F:/Car/src/car/m_employees.java</file>
-            <file>file:/F:/Car/src/car/m_customer.java</file>
+            <file>file:/F:/Car/src/car/c_rents.java</file>
+            <file>file:/F:/Car/src/car/m_customers.java</file>
+            <file>file:/F:/Car/src/car/c_returns.java</file>
             <file>file:/F:/Car/src/car/m_cars.java</file>
         </group>
     </open-files>

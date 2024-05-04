@@ -101,6 +101,9 @@ public class c_payment extends javax.swing.JFrame {
             }
         });
         submit.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                MouseClicked(evt);
+            }
             public void mouseExited(java.awt.event.MouseEvent evt) {
                 submitMouseExited(evt);
             }
@@ -318,6 +321,10 @@ public class c_payment extends javax.swing.JFrame {
     private void jTextField5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField5ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField5ActionPerformed
+
+    private void MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_MouseClicked
 
     /**
      * @param args the command line arguments
